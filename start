@@ -1,0 +1,5 @@
+#git 2.13+ 
+git clone --recurse-submodules https://github.com/givanz/VvvebJs
+
+# older git versions 
+git clone --recursive https://github.com/givanz/VvvebJs
